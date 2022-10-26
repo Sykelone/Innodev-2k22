@@ -9,4 +9,4 @@ Features:
     -One stop for various support groups 
     -Chat Feature to interact with the healthcare professionals
 Tech Stack
-    MERN Stack
+    Mongo DB, React, Express, Node JS, Socket.io
